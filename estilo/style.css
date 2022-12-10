@@ -662,14 +662,14 @@ section.Titulo{  /* <section class="especialidades"> */
 
 
  section.container1{  /* <section class="especialidades"> */
-    padding: 0px 0px;  /* alturas das bolsas e afastar pro lado*/  
+    padding: 0px 2px;  /* alturas das bolsas e afastar pro lado*/  
     
 }
 
 
 .box-central{
   margin: -2px;
-    padding: 0px 5px ;  /* alturas das bolsas*/
+    padding: 0px 8px ;  /* alturas das bolsas*/
     flex-direction: column; /* deixa o texto em coluna*/
     
     
