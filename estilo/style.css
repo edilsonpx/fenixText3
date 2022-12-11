@@ -669,7 +669,7 @@ section.Titulo{  /* <section class="especialidades"> */
 
 .box-central{
   margin: -0px;
-    padding: 20px 0px ;  /* alturas das bolsas*/
+    padding: 10px 0px ;  /* alturas das bolsas*/
     flex-direction: column; /* deixa o texto em coluna*/
     
     
