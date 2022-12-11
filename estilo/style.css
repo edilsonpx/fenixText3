@@ -555,7 +555,7 @@ nav.mobile  ul{
 
     .box-central-BN{
      margin: -2px; /* espaçamentos do cardes*/
-    padding: 8px 0px;  /* espaçamendo dos itens pros lados dos cardes*/
+    padding: 0px 0px;  /* espaçamendo dos itens pros lados dos cardes*/
     display: inline-block;
 }
 
