@@ -155,12 +155,12 @@ var  firebaseConfig = {
                 <section class="container5">
                 <div class=" w50 left box-central">
                         <div class="card-curso4">
-                          <img  class="foto" src ="${val.data().arquivoURL}"</div>
+                          <img  class="foto" src ="${val.data().arquivoURL}"
                            <p class="descriçao">${val.data().descricao}</p>
-                            
                             </div>
                             </div>
                             </div>
+                            </section>
 
               
                                         `;
