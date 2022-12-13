@@ -63,7 +63,7 @@ var  firebaseConfig = {
 
 
                  //PUXAR PEDIDOS DO FIRESTORE
-                db.collection('baner2').onSnapshot((data) => {
+                db.collection('baner').onSnapshot((data) => {
             let list = document.querySelector('.container2');
             list.innerHTML = "";
             data.docs.map((val) => {
