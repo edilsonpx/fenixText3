@@ -686,8 +686,8 @@ section.Titulo{  /* <section class="especialidades"> */
 
 .card{
 border-radius: 10px;
-width: 385px;
-height: 350px;
+width: 382px;
+height: 270px;
 background-color: #F8F8FF;
 /* box-shadow: 25px 10px 8px #000000;*/
 
@@ -696,7 +696,7 @@ background-color: #F8F8FF;
   
     .foto{
  max-width: 400%;
-  width:  385px;  /* largura*/
+  width:  380px;  /* largura*/
     height: 250px;
      padding: 0px;
   /*   border: 3px solid #F8F8FF;  /* cor da borta das fotos*/
