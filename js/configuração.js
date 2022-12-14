@@ -63,7 +63,7 @@ var  firebaseConfig = {
 
 
                  //PUXAR PEDIDOS DO FIRESTORE
-                db.collection('baner').onSnapshot((data) => {
+                db.collection('baner2').onSnapshot((data) => {
             let list = document.querySelector('.container2');
             list.innerHTML = "";
             data.docs.map((val) => {
@@ -88,7 +88,7 @@ var  firebaseConfig = {
 
 
                  //PUXAR PEDIDOS DO FIRESTORE
-                db.collection('baner').onSnapshot((data) => {
+                db.collection('baner2').onSnapshot((data) => {
             let list = document.querySelector('.container3');
             list.innerHTML = "";
             data.docs.map((val) => {
@@ -116,7 +116,7 @@ var  firebaseConfig = {
 
 
                 //PUXAR PEDIDOS DO FIRESTORE
-                db.collection('baner').onSnapshot((data) => {
+                db.collection('baner2').onSnapshot((data) => {
             let list = document.querySelector('.container4');
             list.innerHTML = "";
             data.docs.map((val) => {
@@ -144,7 +144,7 @@ var  firebaseConfig = {
 
 
                 //PUXAR PEDIDOS DO FIRESTORE
-                db.collection('baner').onSnapshot((data) => {
+                db.collection('baner2').onSnapshot((data) => {
             let list = document.querySelector('.container5');
             list.innerHTML = "";
             data.docs.map((val) => {
