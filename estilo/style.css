@@ -678,6 +678,7 @@ section.Titulo{  /* <section class="especialidades"> */
 
  section.container1{  /* <section class="especialidades"> */
     padding: 0px 0px;  /* alturas das bolsas e afastar pro lado*/  
+     margin-left: 0;
     
 }
 
